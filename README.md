@@ -1,8 +1,10 @@
 # Aoidos-2.1-Hybrid-AI-
-<img width="1254" height="705" alt="file_00000000316481f4974c2116571ac700 (2)" src="https://github.com/user-attachments/assets/82b4ea44-8cc4-40ea-8a0b-06da31e5c400" />
 
+<img width="1730" height="908" alt="file_00000000582881f5a8de6edc68fb1f5e" src="https://github.com/user-attachments/assets/6840ed41-5e3a-4d9f-8a96-0b9fe861885a" />
 A hybrid AI coordination system integrating language models and decision models into a unified intelligence architecture. Developed and tested by Oblivion.
 AOIDOS 2.1
+
+
 سامانه هماهنگ‌سازی هوش زبانی و هوش تصمیم‌گیری
 
 توسعه‌دهنده: تیم Oblivion
@@ -10,6 +12,11 @@ AOIDOS 2.1
 وضعیت: ساخته و آزمایش‌شده در محیط آزمایشگاهی؛ هنوز منتشرنشده برای استفاده عمومی
 
 معرفی پروژه
+
+<img width="1254" height="705" alt="file_00000000316481f4974c2116571ac700 (2)" src="https://github.com/user-attachments/assets/82b4ea44-8cc4-40ea-8a0b-06da31e5c400" />
+
+
+
 ------------
 Aoidos یک سامانه و معماری هماهنگ‌سازی است که با هدف همکاری عمیق میان یک مدل زبانی و یک مدل تصمیم‌گیر توسعه داده شده است. این پروژه فراتر از یک پل ارتباطی ساده طراحی شده است: هدف آن ایجاد یک فرایند مشترک است که در آن دو مؤلفه مستقل، با نقش‌های تخصصی متفاوت، برای رسیدن به یک خروجی هماهنگ با یکدیگر همکاری می‌کنند.
 
